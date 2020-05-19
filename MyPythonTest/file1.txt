@@ -1,0 +1,3 @@
+some words - 1
+After commit 1
+Another copy
